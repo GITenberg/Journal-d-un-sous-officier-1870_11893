@@ -1,0 +1,26 @@
+_repo: Journal-d-un-sous-officier-1870_11893
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Delorme, Amédée
+    alias: Delorme, Amedee
+    gutenberg_agent_id: '4119'
+    url: http://www.gutenberg.org/2009/agents/4119
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11893'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France. Armée 48. régiment d''infanterie'
+- !lcsh 'Franco-Prussian War, 1870-1871 -- Personal narratives'
+- !lcsh 'Franco-Prussian War, 1870-1871 -- Regimental histories -- 48. régiment d''infanterie'
+- !lcc 'DC'
+- GITenberg
+title: Journal d'un sous-officier, 1870
+url: http://www.gutenberg.org/ebooks/11893
