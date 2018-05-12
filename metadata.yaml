@@ -1,5 +1,8 @@
 _repo: Journal-d-un-sous-officier-1870_11893
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Delorme, Amédée
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '4119'
     url: http://www.gutenberg.org/2009/agents/4119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11893#Journal-d-un-sous-officier-1870
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
